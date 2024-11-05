@@ -224,6 +224,8 @@ A curated list of awesome marketing tools, books, blogs, podcasts, and resources
   - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails to reduce bounce rates.
   - [GlockApps](https://glockapps.com/) - Tool to diagnose email deliverability problems.
   - [Mailtrap](https://mailtrap.io/) - Platform used to test deliverability before sending and control results in one place.
+  - [WarmupInbox](https://WarmupInbox.com/) - Warmup tool to improve deliverability by reducing your spam rate and maintaining a high reputation with your ESP.
+  - [EmailListVerify](https://EmailListVerify.com/) - EmailListVerify - Verify your email lists and discover email addresses
 
 ## Marketing Automation
 
